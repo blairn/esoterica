@@ -1,6 +1,6 @@
 <svelte:head>
   <link rel="alternate" type="application/json+oembed"
-  href="../esocomponent.json"
+  href="https://esoterica-eohk.vercel.app/esocomponent.json"
   title="RbWz Esoteria component" />
 </svelte:head>
 <style>
