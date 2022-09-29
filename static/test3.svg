@@ -1,0 +1,29 @@
+<svg width="320" height="200" class="s-y_bCXRrkrYfP" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="20" y="20" width="160" height="160" class="s-y_bCXRrkrYfP">
+		<script data-sveltekit-hydrate="oqfifb" href="/@fs/Users/Blair/dev/esoterica/node_modules/@sveltejs/kit/src/runtime/client/start.js">
+
+			start({
+				env: {},
+				hydrate: {
+					status: 200,
+					error: null,
+					node_ids: [0, 2],
+					params: {},
+					routeId: "",
+					data: (function(a){return [a,a]}(null)),
+					form: null
+				},
+				paths: {"base":"","assets":""},
+				target: document.querySelector('[data-sveltekit-hydrate="oqfifb"]').parentNode,
+				trailing_slash: "never"
+			});
+		</script>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="s-y_bCXRrkrYfP">
+      <p>This is a RobotWizard esoterica test.</p>
+      <label class="s-y_bCXRrkrYfP">
+        <input type="number" min="0" max="10" class="s-y_bCXRrkrYfP" value="0"/>
+        <input type="range" min="0" max="10" class="s-y_bCXRrkrYfP" value="0"/>
+      </label>
+    </div>
+  </foreignObject>
+</svg>
